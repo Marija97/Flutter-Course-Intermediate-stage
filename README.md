@@ -12,7 +12,7 @@ This section includes following projects:
 4. FlashChat - Flutter x Firebase Cloud Firestore
 5. Todoey - Flutter State Management
 
-# Course starting goals
+# Course remaining goals
 
 ## CREATING BEAUTIFUL UI WITH FLUTTER FOR INTERMEDIATES
 
