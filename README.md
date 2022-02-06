@@ -5,6 +5,7 @@ This is a set of first Flutter projects I created by following The App Brewery's
 
 <br/>
 This section includes following projects:
+
 1. BMI Calculator - Building Flutter UIs for Intermediates
 2. Clima - Powering Flutter App with Live Weather Web Data
 3. BitcoinTicker - App for practice
